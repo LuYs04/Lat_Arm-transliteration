@@ -89,7 +89,7 @@ This approach allows the model to learn contextual character mappings instead of
 
 ## 🎓 Academic Context
 
-This project is developed as part of a **Bachelor/Master Diploma Thesis** in the field of **Artificial Intelligence and Natural Language Processing**, with a focus on Armenian language technologies.
+This project is developed as part of a **Bachelor Diploma** in the field of **Artificial Intelligence and Natural Language Processing**, with a focus on Armenian language technologies.
 
 ---
 
