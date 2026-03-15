@@ -1,7 +1,7 @@
 # Lat_Arm-transliteration 🇦🇲
 
 **Lat_Arm-transliteration** is an AI-based tool for converting Latin-scripted Armenian text into Armenian letters.  
-The project is developed as a **diploma thesis** and focuses on building a fast, accurate, and lightweight transliteration system for Armenian language processing.
+The project is developed as a **diploma project** and focuses on building a fast, accurate, and lightweight transliteration system for Armenian language processing.
 
 ---
 
@@ -26,14 +26,13 @@ The system is designed to handle:
 
 - Build an efficient transliteration model for Latin-scripted Armenian  
 - Achieve high accuracy without excessive model complexity  
-- Support real-time or near real-time text processing  
 - Create a foundation for future Armenian NLP tools  
 
 ---
 
 ## 🧠 Methodology
 
-The transliteration system is based on **Neural Machine Translation (NMT)** techniques:
+The transliteration system is based on:
 
 - **Seq2Seq architecture**
 - **LSTM-based encoder–decoder**
@@ -51,7 +50,6 @@ This approach allows the model to learn contextual character mappings instead of
 - **NumPy**
 - **Pandas**
 - **Jupyter Notebook** (for experiments and training)
-- **Git** for version control
 
 ---
 
@@ -89,7 +87,7 @@ This approach allows the model to learn contextual character mappings instead of
 
 ## 🎓 Academic Context
 
-This project is developed as part of a **Bachelor Diploma** in the field of **Artificial Intelligence and Natural Language Processing**, with a focus on Armenian language technologies.
+This project is developed as part of a **Bachelor Diploma** in the field of **Information Systems**, with a focus on Armenian language technologies.
 
 ---
 
@@ -98,7 +96,6 @@ This project is developed as part of a **Bachelor Diploma** in the field of **Ar
 **Lusine Atshemyan**  
 National Polytechnic University of Armenia  
 Faculty of Information Systems  
-Specialization: Artificial Intelligence / NLP
 
 ---
 
@@ -106,7 +103,4 @@ Specialization: Artificial Intelligence / NLP
 
 This project is intended for academic and research purposes.
 
-
-
-## 📂 Project Structure
 
